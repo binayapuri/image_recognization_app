@@ -29,7 +29,8 @@ Choose a file and upload
 I choose photo of dog wearing flower. 
 ![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/2acfc760-5caf-4653-88b0-d4db88a1d998)
 
-Result : 
-lets see the detected labels in the image where 
+**Result : 
+**
+lets see the detected labels in the image from our application
 
 ![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/e4212410-42f7-4df9-ba5c-3ba729f65c37)
