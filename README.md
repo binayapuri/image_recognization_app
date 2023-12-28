@@ -26,9 +26,10 @@ The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoD
  ![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/cca2db76-a49b-4640-9d87-78574bdcdba9)
 Choose a file and upload 
 ![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/0aa845d0-a0c8-4603-9302-8a773c990deb)
-
+I choose photo of dog wearing flower. 
+![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/2acfc760-5caf-4653-88b0-d4db88a1d998)
 
 Result : 
-lets see the detected labels in the image where i use photo of dog wearing flower. 
+lets see the detected labels in the image where 
 
-![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/378d2ab0-ac43-4358-b686-f5ac5cffbebb)
+![image](https://github.com/binayapuri/image_recognization_app/assets/97520897/e4212410-42f7-4df9-ba5c-3ba729f65c37)
